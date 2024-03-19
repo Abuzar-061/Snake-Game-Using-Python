@@ -28,7 +28,7 @@ The Snake Game is a classic arcade game where you control a snake 🟩 that grow
 ## Controls
 
 - Use the arrow keys (Up, Down, Left, Right) or the WASD keys (W, A, S, D) to control the snake's movement.
-- Press the Esc key or close the game window to exit the game.
+- Close the game window to exit the game.
 
 ## Contributing
 
